@@ -61,7 +61,7 @@ const html = `
   <img src="https://images.fpt.shop/unsafe/filters:quality(5)/fptshop.com.vn/uploads/images/tin-tuc/168111/Originals/hinh%20nen%20may%20tinh%20dep%20(13)(1).jpg" alt="Nature Image">
   <div class="overlay-text">
     Kết quả bài thực hành<br>
-    Cao Van Hai -22810310025
+    Cao Văn Hải -22810310025
   </div>
   <button class="start-button" onclick="alert('Bắt đầu bài thực hành!')">Bắt Đầu</button>
 </div>
